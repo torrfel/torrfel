@@ -4,27 +4,24 @@
 
 Soy estudiante de Ingeniería de Sistemas con experiencia en desarrollo **web y móvil**.  
 Me apasiona crear soluciones tecnológicas que tengan un **impacto positivo en las personas y el medio ambiente**.  
-Busco seguir creciendo como profesional, especialmente en áreas como **Cloud Computing, Inteligencia Artificial y Desarrollo Sostenible**.
+Busco seguir creciendo como profesional, especialmente en áreas como **Cloud Computing y Desarrollo Sostenible**.
 
 ---
 
 ## 🚀 Tecnologías y Herramientas
 
 ### 👨‍💻 Lenguajes de programación:
-- **Python** 🐍 | **Java** ☕ | **Kotlin** 📱 | **C** ⚙️  
+- **Python** 🐍 | **Java** ☕  
 - **JavaScript / TypeScript** 🌐 | **Dart (Flutter)** 💙
 
 ### 🧩 Frameworks y librerías:
 - **Flutter** | **React** | **Node.js** | **Express** | **Spring Boot**
 
 ### ☁️ Cloud & DevOps:
-- **Google Cloud Platform (GCP)** | **Firebase** | **Docker** | **GitHub Actions**
+- **Amazon web service (AWS)** | **Firebase** | **Docker** | **GitHub Actions**
 
 ### 🗄️ Bases de datos:
 - **MySQL** | **PostgreSQL** | **SQLite** | **Firestore**
-
-### 🧠 Ciencia de datos e IA:
-- **Pandas** | **NumPy** | **Matplotlib** | **scikit-learn**
 
 ---
 
@@ -37,15 +34,18 @@ Busco seguir creciendo como profesional, especialmente en áreas como **Cloud Co
 
 ## 🧩 Proyectos Destacados
 
-### 💚 [EcoConnect - E-commerce sostenible](https://github.com/tuusuario/ecoconnect)
-Plataforma que conecta a consumidores con productos ecológicos y responsables ambientalmente.  
-**Stack:** Flutter | Firebase | Node.js | Firestore  
-🔗 *Objetivo:* promover el consumo responsable y la economía circular ♻️  
+### 🚴 [Mejor en Bici](https://github.com/torrfel/mejor_en_bici)
+Aplicación que promueve el uso de la bicicleta como medio de transporte sostenible, ofreciendo rutas, estadísticas y recompensas por kilómetros recorridos.  
+**Stack:** Flutter | Firebase | Google Maps API  
+♻️ *Fomenta hábitos sostenibles y movilidad inteligente.*
 
-### 🧘‍♂️ [Inspiranza - App de bienestar mental](https://github.com/tuusuario/inspiranza-app)
-Aplicación móvil creada junto a una ONG para fortalecer la confianza y la salud mental.  
-**Stack:** Flutter | Firebase | Python  
-✨ *Impacto social con propósito real.*  
+---
+
+### 💬 [Chat App](https://github.com/torrfel/chat_app)
+Aplicación de mensajería en tiempo real con autenticación y diseño moderno.  
+**Stack:** Flutter | Firebase | Cloud Firestore | Authentication  
+⚡ *Enfocada en la comunicación rápida, segura y multiplataforma.*
+*  
 
 ---
 
@@ -60,8 +60,7 @@ Cuando no estoy programando, disfruto:
 
 ## 📫 Contáctame
 - 📧 **Correo:** juanfelipe.dev@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/juanfelipe](https://linkedin.com/in/juanfelipe)  
-- 🌐 **Portafolio:** [juanfelipe.dev](https://juanfelipe.dev) *(opcional, si lo tienes)*  
+- 💼 **LinkedIn:** [linkedin.com/in/felipe-torres-gomez/](https://www.linkedin.com/in/felipe-torres-gomez/)  
 
 ---
 
@@ -70,7 +69,7 @@ Me gusta convertir ideas en código y código en impacto 🌱
 > "La tecnología tiene sentido cuando mejora la vida de las personas."
 
 ---
-⭐️ From [Juan Felipe](https://github.com/tuusuario)
+⭐️ From [Juan Felipe](https://github.com/torrfel)
 
 <!--
 **torrfel/torrfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
