@@ -28,11 +28,18 @@ Busco seguir creciendo como profesional, especialmente en áreas como **Cloud Co
 ## 🌱 Actualmente aprendiendo...
 - Arquitectura de aplicaciones en la nube ☁️  
 - Ciencia de datos aplicada a proyectos reales 📊  
-- Optimización de rendimiento en apps Flutter ⚡  
+- Optimización de rendimiento en apps Flutter ⚡
+- Desarrollo de APPs con LLMs
 
 ---
 
 ## 🧩 Proyectos Destacados
+
+### Chat Inteligente con IA
+
+Aplicación móvil de chat que integra modelos de lenguaje avanzados para generar respuestas contextuales y asistir a los usuarios en tiempo real. La aplicación se conecta con la API de Anthropic y utiliza un sistema RAG (Retrieval-Augmented Generation) para mejorar la calidad y relevancia de las respuestas mediante recuperación de información.
+
+**Stack:** Flutter | Python | LangChain | Anthropic API | REST API
 
 ### 🚴 [Mejor en Bici](https://github.com/torrfel/mejor_en_bici)
 Aplicación que promueve el uso de la bicicleta como medio de transporte sostenible, ofreciendo rutas, estadísticas y recompensas por kilómetros recorridos.  
